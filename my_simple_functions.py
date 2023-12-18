@@ -12,9 +12,3 @@ def divide_numbers(a, b):
         return a / b
     else:
         return "Cannot divide by zero!"
-    
-def say_hello(name):
-    print(f"Hello, {name}")
-
-def say_goodbye(name):
-    print(f"Goodbye {name}")
