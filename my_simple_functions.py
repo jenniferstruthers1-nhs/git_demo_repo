@@ -12,3 +12,9 @@ def divide_numbers(a, b):
         return a / b
     else:
         return "Cannot divide by zero!"
+    
+def hello_name(name):
+    print(f"Hello {name}")
+
+def goodbye_name(name):
+    print(f"Hello {name}")
