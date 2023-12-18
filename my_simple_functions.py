@@ -18,3 +18,9 @@ def multiply_many_numbers(a, b, c, d, e):
 
 def add_one(a):
     return a + 1
+    
+def hello_name(name):
+    print(f"Hello {name}")
+
+def goodbye_name(name):
+    print(f"Hello {name}")
